@@ -49,33 +49,33 @@ const pageData = {
     {
       category: "Gitar & Bass",
       items: [
-        { name: "Fender Stratocaster American Professional", price: "350.000", img: "public/galeri-1.webp" },
-        { name: "Bass Gibson Thunderbird", price: "400.000", img: "public/galeri-2.webp" },
-        { name: "Ibanez Premium SR Bass", price: "300.000", img: "public/galeri-3.webp" }
+        { name: "Fender Stratocaster American Professional", price: "350.000", img: "./galeri-1.webp" },
+        { name: "Bass Gibson Thunderbird", price: "400.000", img: "./galeri-2.webp" },
+        { name: "Ibanez Premium SR Bass", price: "300.000", img: "./galeri-3.webp" }
       ]
     },
     {
       category: "Drum & Perkusi",
       items: [
-        { name: "Pearl Masterworks Custom Drum Kit", price: "1.200.000", img: "public/galeri-4.webp" },
-        { name: "Roland TD-50K2 V-Drums (Elektrik)", price: "950.000", img: "public/galeri-5.webp" },
-        { name: "Zildjian K Custom Cymbal Set", price: "450.000", img: "public/galeri-6.webp" }
+        { name: "Pearl Masterworks Custom Drum Kit", price: "1.200.000", img: "./galeri-4.webp" },
+        { name: "Roland TD-50K2 V-Drums (Elektrik)", price: "950.000", img: "./galeri-5.webp" },
+        { name: "Zildjian K Custom Cymbal Set", price: "450.000", img: "./galeri-6.webp" }
       ]
     },
     {
       category: "Keyboard & Synth",
       items: [
-        { name: "Nord Stage 3 88-Key", price: "850.000", img: "public/galeri-7.webp" },
-        { name: "Korg Kronos 2", price: "750.000", img: "public/galeri-8.webp" },
-        { name: "Yamaha Motif XF8", price: "650.000", img: "public/galeri-9.webp" }
+        { name: "Nord Stage 3 88-Key", price: "850.000", img: "./galeri-7.webp" },
+        { name: "Korg Kronos 2", price: "750.000", img: "./galeri-8.webp" },
+        { name: "Yamaha Motif XF8", price: "650.000", img: "./galeri-9.webp" }
       ]
     },
     {
       category: "Sound System",
       items: [
-        { name: "Paket Akustik (2 Speaker, 1 Mixer, 2 Mic)", price: "1.500.000", img: "public/galeri-10.webp" },
-        { name: "Paket Band Full (FOH, Monitor, Mic Set)", price: "4.500.000", img: "public/galeri-11.webp" },
-        { name: "Paket DJ (2 CDJ, 1 DJ Mixer, 2 Monitor)", price: "2.500.000", img: "public/galeri-12.webp" }
+        { name: "Paket Akustik (2 Speaker, 1 Mixer, 2 Mic)", price: "1.500.000", img: "./galeri-10.webp" },
+        { name: "Paket Band Full (FOH, Monitor, Mic Set)", price: "4.500.000", img: "./galeri-11.webp" },
+        { name: "Paket DJ (2 CDJ, 1 DJ Mixer, 2 Monitor)", price: "2.500.000", img: "./galeri-12.webp" }
       ]
     }
   ],
